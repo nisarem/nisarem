@@ -1,7 +1,17 @@
 ### Hi there 👋
 
-<h2>Connect with me!</h2>
- 
+I am a dedicated professional with experience in customer experience management, product management, and project leadership. My background in FMCG and e-commerce has equipped me with valuable skills in data analysis, project management, and market research.
+
+## Skills
+
+- Customer Experience Management
+- Data Analysis (Python, Tableau, Mixpanel)
+- Project Management
+- Market Research
+- Product Development
+
+Connect with me on LinkedIn! 
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nisairemkilinc/) 
 
 <!--
