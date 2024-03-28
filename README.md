@@ -10,6 +10,7 @@ I am a dedicated professional with experience in customer experience management,
 - Market Research
 - Product Development
 
+## 
 Connect with me on LinkedIn! 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nisairemkilinc/) 
